@@ -18,8 +18,17 @@ function Sobre() {
 
     return (
         <Container className='conteudo-margin'>
-            <h1>Sobre</h1>
-            <p>{sobre.text}</p>
+        
+            <h1 style={{ paddingTop: "20px", textAlign: "center", }}>Sobre nós:</h1>
+            <h3 style={{textAlign:"center"}}>
+Somos uma empresa que dá sugestões de onde comer fast-food.
+Ficar na dúvida de onde comer é mais comum do que se imagina, pois a gastronomia no bairro é praticamente uma atração à parte. Até mesmo quem frequenta e conhece bem o local passa por esse dilema. <br />
+Para ajudar a montar seu roteiro de lanches bons e baratos no bairro, elaboramos esse aplicativo, FoodBairro, com referência de ótimos estabelecimentos para lanchar.
+            </h3> <br />
+            
+    <img style={{margin:"auto"}} src="img/food.jpg" alt=""/> <br />
+            
+            
             <Depoimentos />
         </Container>
     );

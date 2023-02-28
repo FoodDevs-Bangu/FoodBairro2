@@ -5,6 +5,7 @@ import Banners from '../components/Banners'
 
 function Home() {
     return (
+        
         <>
             <Banners />
             <Container>
