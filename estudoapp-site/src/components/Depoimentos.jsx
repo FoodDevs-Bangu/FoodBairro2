@@ -7,28 +7,52 @@ function Depoimentos() {
         <h2 className='mt-3'>Depoimentos</h2>
         <Row className='mt-3'>
             <Col sm="12" md="2" className='text-center'>
-                <img src="https://via.placeholder.com/100/ffd000" alt="Foto do depoimento" className='rounded' />
+                <img src=".\src\img\Pedro-Raul-2.jpeg" alt="Foto do depoimento" className='rounded' />
             </Col>
             <Col sm="12" md="10">
-                <strong>Depoimento 1</strong>
+                <strong>Pedro Raul</strong>
                 <p>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br />
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas repellendus at voluptate voluptatibus illo ad vel ut numquam, quas sunt hic esse, dolore recusandae est vero quod minima eius repellat."
+                    "Excelente!!, acabei de meter 3 gols no flamengo.<br />
+                    e posso achar uma opção de sobremesa perto de casa e pagando barato, depois de jantar o flamengo."
                 </p>
             </Col>
         </Row>
         <Row className='mt-3'>
             <Col sm="12" md="2" className='text-center'>
-                <img src="https://via.placeholder.com/100/ffd000" alt="Foto do depoimento 2" className='rounded' />
+                <img src=".\src\img\elon.jpg" alt="Foto do depoimento 2" className='rounded' />
             </Col>
             <Col sm="12" md="10">
-                <strong>Depoimento 2</strong>
+                <strong>Elon Musk</strong>
                 <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br />
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas repellendus at voluptate voluptatibus illo ad vel ut numquam, quas sunt hic esse, dolore recusandae est vero quod minima eius repellat."
+                "Estou louco para comprar o FoodBairro.<br />
+                    Finalmente uma opção que ajude o proprietário de verdade !!, agora vou comprar, monetizar a ideia e direi que é meu."
+                </p>
+            </Col>
+        </Row>    
+        <Row className='mt-3'>
+            <Col sm="12" md="2" className='text-center'>
+                <img src=".\src\img\andre.jpeg" alt="Foto do depoimento 2" className='rounded' />
+            </Col>
+            <Col sm="12" md="10">
+                <strong>André Rocha</strong>
+                <p>
+                "Agora posso comprar perto de casa e barato.<br />
+                    tenho diversas opções perto de casa e não sabia, graças ao FoodBairro agora eu sei."
                 </p>
             </Col>
         </Row>        
+        <Row className='mt-3'>
+            <Col sm="12" md="2" className='text-center'>
+                <img src=".\src\img\jordan.jpg" alt="Foto do depoimento 2" className='rounded' />
+            </Col>
+            <Col sm="12" md="10">
+                <strong>Michael B. Jordan - proprietário</strong>
+                <p>
+                "agora posso cadastrar meu trailer, sem pagar as taxas dos app.<br />
+                    posso alavancar meu negócio no bairro sem ser refém de taxas abusivas dos app de comida."
+                </p>
+            </Col>
+        </Row>            
         </>
     )
 }

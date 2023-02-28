@@ -6,25 +6,25 @@ function Destaques() {
         <Row className='mt-2'>
             <Col className='mt-2' sm="12" md="4">
                 <Card>
-                    <Card.Img variant="top" src="https://via.placeholder.com/300" />
+                    <Card.Img variant="top" src=".\src\img\mobile (1).jpg" />
                     <Card.Body>
                         <Card.Title>Fácil de usar</Card.Title>
                         <Card.Text>
-                            O EstudoApp é muito fácil de usar. Você pode criar suas próprias listas de estudo!
+                            O FoodBairro é muito fácil de usar, bastar inserir seu bairro e pronto !! 
                         </Card.Text>
                         <LinkContainer to="/">
-                            <Button variant="warning">Acessar o EstudoApp</Button>
+                            <Button variant="warning">Acessar FoodBairro</Button>
                         </LinkContainer>
                     </Card.Body>
                 </Card>
             </Col>
             <Col className='mt-2' sm="12" md="4">
                 <Card>
-                    <Card.Img variant="top" src="https://via.placeholder.com/300" />
+                    <Card.Img variant="top" src=".\src\img\money.jpg" />
                     <Card.Body>
-                        <Card.Title>Rápido e confiável</Card.Title>
+                        <Card.Title>Economize</Card.Title>
                         <Card.Text>
-                            O EstudoApp é muito rápido e confiável. Seus dados são armazenados em servidores seguros.
+                            Pague mais barato em sua comida, sem adição de taxas de serviço !!
                         </Card.Text>
                         <LinkContainer to="/funcionalidades">
                             <Button variant="warning">Conheça mais</Button>
@@ -34,11 +34,11 @@ function Destaques() {
             </Col>
             <Col className='mt-2' sm="12" md="4">
                 <Card>
-                    <Card.Img variant="top" src="https://via.placeholder.com/300" />
+                    <Card.Img variant="top" src=".\src\img\suport.jpg" />
                     <Card.Body>
-                        <Card.Title>Suporte personalizado</Card.Title>
+                        <Card.Title>Suporte ao Estabelecimento</Card.Title>
                         <Card.Text>
-                            O EstudoApp oferece suporte personalizado para você. Entre em contato conosco e tire suas dúvidas.
+                            Inserção de novos restaurantes e suporte aos já inseridos, fale conosco.
                         </Card.Text>
                         <LinkContainer to="/contato">
                         <Button variant="warning">Entre em contato</Button>
