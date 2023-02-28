@@ -1,6 +1,6 @@
 .conteudo-margin {
     margin-top: 55px;
-    
+
 }
 
 .active.nav-link {
@@ -10,8 +10,5 @@
 
 .nav-link{
     border-bottom: 1px solid transparent;
-}
-
-*{
-   
+    
 }

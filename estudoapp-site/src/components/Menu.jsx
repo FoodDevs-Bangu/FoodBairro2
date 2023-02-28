@@ -9,7 +9,7 @@ function Menu() {
     return (<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed="top">
         <Container>
             <LinkContainer to="/">
-                <Navbar.Brand>EstudoApp Site</Navbar.Brand>
+                <Navbar.Brand aria-label='Home'><img style={{width:"250px", height:"75px"}} src="img/2.png" alt="" /></Navbar.Brand>
             </LinkContainer>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
