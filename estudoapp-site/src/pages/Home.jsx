@@ -6,13 +6,14 @@ import Banners from '../components/Banners'
 function Home() {
     return (
         
-        <>
+        <div style={{ backgroundImage: "url(/img/3.png)", backgroundSize: "cover" }}>
             <Banners />
             <Container>
                 <Destaques />
                 <Depoimentos />
             </Container>
-        </>
+            </div>
+        
     );
 }
 

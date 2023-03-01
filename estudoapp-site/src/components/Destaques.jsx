@@ -10,7 +10,7 @@ function Destaques() {
                     <Card.Body>
                         <Card.Title>Fácil de usar</Card.Title>
                         <Card.Text>
-                            O FoodBairro é muito fácil de usar, bastar inserir seu bairro e pronto !! 
+                            O FoodBairro é muito fácil de usar, bastar inserir seu bairro e pronto! 
                         </Card.Text>
                         <LinkContainer to="/">
                             <Button variant="warning">Acessar FoodBairro</Button>
@@ -24,7 +24,7 @@ function Destaques() {
                     <Card.Body>
                         <Card.Title>Economize</Card.Title>
                         <Card.Text>
-                            Pague mais barato em sua comida, sem adição de taxas de serviço !!
+                            Pague mais barato em sua comida, sem adição de taxas de serviço!
                         </Card.Text>
                         <LinkContainer to="/funcionalidades">
                             <Button variant="warning">Conheça mais</Button>
