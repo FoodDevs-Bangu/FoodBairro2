@@ -27,9 +27,9 @@ npm run dev
 
 ## Integrantes do grupo:
 
-Gabriel Bernardo 
-Maria Eduarda
-Milena Vieira
+Gabriel Bernardo, 
+Maria Eduarda,
+Milena Vieira e
 Larissa Gabriele
 Lincoln Souza
 
