@@ -29,7 +29,7 @@ npm run dev
 
 Gabriel Bernardo, 
 Maria Eduarda,
-Milena Vieira e
-Larissa Gabriele
+Milena Vieira,
+Larissa Gabriele e
 Lincoln Souza
 
