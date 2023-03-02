@@ -6,7 +6,7 @@ Case 2 - Site do FoodBairro (Frontend)
 
 O projeto foi desenvolvido com o intuito de criar um site para Ajudar os estabelecimentos na busca de novos clientes, deixando de ser refém em taxas de aplicativo, com isso encarecendo seu produto e afastando novos clientes.
 
-Somos um catálogo que o usuário busca as opções de estabelecimentos de acordo com o bairro que se encontra, assim tendo a facilidade de achar comida boa e barata, e fortalecendo o comércio local
+Somos um catálogo que o usuário busca as opções de estabelecimentos de acordo com o bairro que se encontra, assim tendo a facilidade de achar comida boa e barata, e fortalecendo o comércio local.
 
 ## Pré-requisitos
 
