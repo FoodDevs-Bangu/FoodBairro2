@@ -2,7 +2,7 @@
 
 Case 2 - Site do FoodBairro (Frontend)
 
-## Sobre o projeto
+## Sobre o projeto:
 
 O projeto foi desenvolvido com o intuito de criar um site para Ajudar os estabelecimentos na busca de novos clientes, deixando de ser refém em taxas de aplicativo, com isso encarecendo seu produto e afastando novos clientes.
 
