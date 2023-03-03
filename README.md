@@ -1,6 +1,6 @@
-# case2-frontend
+## Projeto Full-stack
 
-Case 2 - Site do FoodBairro (Frontend)
+Site do FoodBairro (Frontend)
 
 ## Sobre o projeto:
 
@@ -24,6 +24,10 @@ npm install / Pasta Back-End
 npm run dev
 
 ```
+## Como Usar?
+
+Projeto altera as tags de funcionalidade do site, inserindo /admin na url irá encaminhar para o login de autenticação: admin@case2.com e senha: 12345678
+após isso será disponivel um crud utilizando SQLite para alterar as funcionalidades impressas no site.
 
 ## Integrantes do grupo:
 
