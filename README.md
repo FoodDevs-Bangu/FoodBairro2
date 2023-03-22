@@ -24,9 +24,11 @@ npm install / Pasta Back-End
 npm start
 
 ```
+(back-end em atualização) 
+
 ## Como Usar?
 
-Projeto altera as tags de funcionalidade do site, inserindo /admin na url irá encaminhar para o login de autenticação: admin@case2.com e senha: 12345678
+Projeto altera as tags de funcionalidade do site, inserindo /login na url irá encaminhar para o login de autenticação: admin@case2.com e senha: 12345678
 após isso será disponivel um crud utilizando SQLite para alterar as funcionalidades impressas no site.
 
 ## Integrantes do grupo:
