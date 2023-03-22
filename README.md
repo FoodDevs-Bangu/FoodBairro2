@@ -18,10 +18,10 @@ Somos um catálogo que o usuário busca as opções de estabelecimentos de acord
 ```bash
 git clone https://github.com/FoodDevs-Bangu/FoodBairro2
 npm install / Pasta Front-End
-npm start
+npm run dev
 
 npm install / Pasta Back-End
-npm run dev
+npm start
 
 ```
 ## Como Usar?
